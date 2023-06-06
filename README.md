@@ -6,10 +6,16 @@
 
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=7610f9)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+
+## Follow me
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/tilya_dzhenishev/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Tilekdzhenishev)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/tilek-dzhenishev-444816208/)
 
