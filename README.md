@@ -19,7 +19,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Tilekdzhenishev)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/tilek-dzhenishev-444816208/)
 
-![Tilek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tilek04&show_icons=true&theme=tokyonight&hide=issues)
 
 
 
