@@ -2,7 +2,6 @@
 
 I'm a programming enthusiast and Computer Science student at Collegium Da Vinci with a specialization in software engineering. I was born in Kyrgyzstan and currently live in Poland. Let's connect and explore the endless possibilities at the intersection of technology, creativity, and human interaction.
 
-👨🏻‍💻 My website: [tilekdzhenishev.com](https://tilekdzhenishev.vercel.app)  
 🚀 Toolbox: JavaScript, ReactJS, NextJS, NodeJS, Python, Postgresql
 
 ### Let's Connect!
