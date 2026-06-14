@@ -1,26 +1,24 @@
-## Hey, I'm Tilek Dzhenishev   
+Hey, I’m Tilek Dzhenishev 👋
 
-I'm a **Software Engineer**, product builder, and computer science student passionate about using technology to make a meaningful impact - especially in the space of **education and neurodiversity**.  
+Founder & CTO building AI-powered systems for child development.
 
-Currently building **[Nuroo](https://www.usenuroo.com)** — an AI-powered early childhood task assistant that helps parents support kids with developmental differences and make therapy more accessible and effective.  
+Currently building Nuroo an AI platform for families, specialists, and educational organizations supporting children with developmental differences.
 
-Born in **Kyrgyzstan**, now based in **Poland**.  
-Studying **Software Engineering** at Collegium Da Vinci.  
-Driven by curiosity, compassion, and the belief that code can change lives.  
+Tech
 
-###  Tech Toolbox
-- **Frontend:** JavaScript, ReactJS, Next.js, Expo, TailwindCSS  
-- **Backend:** Node.js, Express, Firebase, OpenAI API  
-- **Databases:** Firestore, PostgreSQL  
-- **AI/ML:** Prompt Engineering, API Integration  
 
-###  Featured Project  
-**Nuroo-AI Therapy Assistant for Kids**  
-Empowering parents through accessible, affordable, and personalized therapy guidance.  
-🌐 [usenuroo.com](https://www.usenuroo.com)
 
----
+- TypeScript, JavaScript, Python
+- React, Next.js, React Native (Expo)
+- Node.js, Firebase, PostgreSQL
+- Azure, GCP, Sentry, CI/CD
+- AI Systems, LLMs, RAG
 
-### Let's Connect  
+Current Focus
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/tileknology/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tilek-dzhenishev/)
+* Building Nuroo
+* AI for child development
+* Computer Vision & Multimodal AI
+* Product & Systems Engineering
+
+🌐 https://www.usenuroo.com
